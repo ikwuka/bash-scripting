@@ -1,2 +1,2 @@
-# Nmap 7.92 scan initiated Thu Jun  2 18:05:39 2022 as: nmap -sT -p 3306 -oG MySQLscan 192.168.181.-1
-# Nmap done at Thu Jun  2 18:05:39 2022 -- 2 IP addresses (0 hosts up) scanned in 0.55 seconds
+# Nmap 7.92 scan initiated Thu Jun  2 18:07:59 2022 as: nmap -sT -p 3306 -oG MySQLscan 192.168.181.0-192.168.181.255
+# Nmap done at Thu Jun  2 18:07:59 2022 -- 0 IP addresses (0 hosts up) scanned in 0.30 seconds
