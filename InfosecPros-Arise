@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# My first bash script. Wish me luck.
+
+echo "Hello, InfosecPros-Arise!"
