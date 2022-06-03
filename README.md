@@ -11,3 +11,18 @@ To run the bash script, open your terminal, cd into the directory where the file
 
 To run the InfosecPros-Arise script:
     `./InfosecPros-Arise`
+
+
+## How to Display Files from a Tarball
+
+To display the files in an archive in this project:
+
+Open your terminal (you can use the command `CTL + ALT + T`)
+
+Clone this project to your local machine with the `git clone <ssh-key>` command. 
+
+Navigate into the 'archived' directory with `cd archived` command
+
+Choose the tarball (Scanners.tar) you wish to view its files and enter the command `tar -tvf Scanners.tar`.
+
+Hit the ENTER key.
