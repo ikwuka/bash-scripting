@@ -1,3 +1,5 @@
+#!/bin/bash
+
 command='ls -lrt'
 
 echo 'This command will find the list of files in a directory'
