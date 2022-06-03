@@ -41,3 +41,12 @@ Navigate into the 'archived' directory with `cd archived` command
 Choose the tar file (Evaluate.tar) you wish to view its files and enter the command `tar -xvf Evaluate.tar`.
 
 Hit the ENTER key.
+
+
+### How to Uncompress Files Using Three Different Methods
+
+Let us take, for example that we want to uncompress a file named `CysecArise.tar`; the following commands could be used:
+
+gzip format: `gunzip CysecArise.tar`
+bzip2 format: `bunzip2 CysecArise.tar`
+compress format: `uncompress CysecArise.tar`
