@@ -43,6 +43,15 @@ Choose the tar file (Evaluate.tar) you wish to view its files and enter the comm
 Hit the ENTER key.
 
 
+### How to Compress Files Using Three Different Methods
+
+Let us take, for example that we want to compress a file named `CysecArise.tar`; the following commands could be used:
+
+gzip format: `gzip CysecArise.tar`
+bzip2 format: `bzip2 CysecArise.tar`
+compress format: `compress CysecArise.tar`
+
+
 ### How to Uncompress Files Using Three Different Methods
 
 Let us take, for example that we want to uncompress a file named `CysecArise.tar`; the following commands could be used:
